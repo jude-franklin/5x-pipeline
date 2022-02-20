@@ -13,3 +13,6 @@ models:
 
     - name: recovered_case_info
       description: "Recovered cases per day"
+
+    - name: province_stats
+      description: "Province wise statistics"
