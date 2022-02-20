@@ -2,7 +2,14 @@
 version: 2
 
 models:
-    - name: test
-      description: "A starter dbt model"
+    - name: daily_stats
+      description: "Daily Satisitics"
 
+    - name: death_info
+      description: "Death per day"
 
+    - name: active_case_info
+      description: "Active cases per day"
+
+    - name: recovered_case_info
+      description: "Recovered cases per day"
